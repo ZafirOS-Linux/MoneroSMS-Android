@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">MoneroSMS</string>
+    <string name="app_name_unofficial" translatable="false">MoneroSMS Unofficial</string>
+</resources>
